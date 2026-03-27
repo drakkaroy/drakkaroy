@@ -68,4 +68,6 @@ AI Productivity      ████████████████░░░�
 
 *"Order, clarity, and continuous improvement — combining technology with creative passion."*
 
+![Visitors](https://komarev.com/ghpvc/?username=drakkaroy&color=58a6ff&style=flat-square&label=Profile+Views)
+
 </div>
